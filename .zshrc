@@ -77,9 +77,6 @@ plugins=(git)
 
 source $ZSH/oh-my-zsh.sh
 
-# awesome fonts
-source $HOME/.fonts/*.sh
-
 # User configuration
 
 # export MANPATH="/usr/local/man:$MANPATH"

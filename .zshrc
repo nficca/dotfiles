@@ -105,11 +105,3 @@ fi
 # Example aliases
 alias zshconfig="vim ~/.zshrc"
 alias ohmyzsh="vim ~/.oh-my-zsh"
-
-# git aliases
-alias ga="git add"
-alias gc="git commit"
-alias gd="git diff"
-alias gl="git log --oneline --decorate --graph"
-alias gs="git status"
-alias gco="git checkout"

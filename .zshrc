@@ -109,3 +109,7 @@ fi
 # Example aliases
 alias zshconfig="vim ~/.zshrc"
 alias ohmyzsh="vim ~/.oh-my-zsh"
+
+# Nicely-formatted PATH
+alias path="python -c \"import sys; print('\n'.join(' '.join(sys.argv[1:]).split(':')))\" \"$PATH\""
+

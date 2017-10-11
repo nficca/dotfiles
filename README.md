@@ -18,3 +18,5 @@ Heavily influenced by [mathiasbyens dotfiles repo](https://github.com/mathiasbyn
 * https://github.com/hishamhm/htop - *Interactive process viewer (Heavy-duty `top`)*
 * https://github.com/wting/autojump - *Faster file-system navigation*
 * https://github.com/facebook/PathPicker - *Open files from bash output*
+* https://github.com/junegunn/fzf - *Command-line fuzzy finder*
+

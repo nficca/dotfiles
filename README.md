@@ -1,6 +1,6 @@
 # Dotfiles
 
-Heavily influenced by [mathiasbyens dotfiles repo](https://github.com/mathiasbynens/dotfiles).
+Dotfiles and other configurations and tools that I like to use in my dev environments.
 
 ### Setup for zsh
 

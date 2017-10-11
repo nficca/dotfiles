@@ -12,3 +12,9 @@ Heavily influenced by [mathiasbyens dotfiles repo](https://github.com/mathiasbyn
 5. Setup iTerm2 to use the recently downloaded font and colorscheme
 6. Copy `.zshrc` file to home dir
 
+### Some useful tools
+* https://github.com/sharkdp/fd - *Faster `find`*
+* https://github.com/MrRio/vtop - *Graphical activity monitor (Pretty `top`)*
+* https://github.com/hishamhm/htop - *Interactive process viewer (Heavy-duty `top`)*
+* https://github.com/wting/autojump - *Faster file-system navigation*
+* https://github.com/facebook/PathPicker - *Open files from bash output*

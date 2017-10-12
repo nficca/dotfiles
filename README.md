@@ -20,4 +20,4 @@ Dotfiles and other configurations and tools that I like to use in my dev environ
 * https://github.com/wting/autojump - *Faster file-system navigation*
 * https://github.com/facebook/PathPicker - *Open files from bash output*
 * https://github.com/junegunn/fzf - *Command-line fuzzy finder*
-
+* https://github.com/jakubroztocil/httpie - *Pretty `cURL`*

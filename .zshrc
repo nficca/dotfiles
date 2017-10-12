@@ -83,6 +83,9 @@ source $ZSH/oh-my-zsh.sh
 
 # User configuration
 
+# custom shell functions
+for f in ~/.shell/functions/*.sh; do . $f; done
+
 # export MANPATH="/usr/local/man:$MANPATH"
 
 # You may need to manually set your language environment

@@ -8,7 +8,7 @@ function fco {
 	fi
 
 	branch=`git branch --list \
-					| fzf --height=5 --min-height=5 --reverse --query="$1" --select-1 \
+					| fzf --height=7 --min-height=5 --reverse --query="$1" --select-1 \
 					| sed -e 's/^[[:space:]\*]*//'`
 
 	[[ -n "$branch" ]] && git checkout "$branch"

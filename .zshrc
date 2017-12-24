@@ -2,7 +2,7 @@
 export PATH=$HOME/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin
 
 # Add custom commands to path
-export PATH=$HOME/commands:$PATH
+export PATH=$HOME/.shell/commands:$PATH
 
 # Add vscode to path
 export PATH=/Applications/Visual\ Studio\ Code.app/Contents/Resources/app/bin:$PATH
